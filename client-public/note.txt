@@ -1,0 +1,5 @@
+google map api key:
+AIzaSyAjClgw-fQRe0J2U4P_myhy4d_8mrlu3eQ
+
+google places api key:
+AIzaSyDLsHtVcwM7Z-SevEfvbnN-pZXDaJ4v9jU
